@@ -1,0 +1,9 @@
+**/data/
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.db
+*.log
+青山帮会名册.txt
+roster.txt
